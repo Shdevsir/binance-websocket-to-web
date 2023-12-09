@@ -1,0 +1,32 @@
+p#par{
+    color: rgb(64, 255, 0)
+}
+
+.blue {
+    color: blue;
+}
+
+#par {
+    color: yellow ;
+}
+
+p {
+    color: green;
+}
+
+#mainDiv {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.video {
+    margin: 5px;
+    border: 50%;
+}
+
+.video iframe {
+    border-radius: 50%;
+}
